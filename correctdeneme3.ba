@@ -1,0 +1,8 @@
+int size.
+int sum.
+move 5 to size.
+add 10 to size.
+move size to sum.
+out newline, "Sum:", sum. {Sum: 15 }
+sub 3 from sum.
+out newline, "Sum:", sum.{Sum: 12}

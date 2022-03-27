@@ -1,0 +1,14 @@
+Keyword int
+Identifier lenght
+EndOfLine
+Keyword move
+IntConstant 10
+Keyword to
+Identifier lenght
+EndOfLine
+Keyword loop
+IntConstant 10
+Keyword times
+Keyword out
+StringConstant "*"
+EndOfLine

@@ -1,0 +1,15 @@
+int size.
+int sum.
+int sira.
+move 1 to sira.
+move 5 to size.
+loop size times 
+[
+loop 3 times 
+[
+out newline, "Dongu", sira.
+add size to sum.
+add 1 to sira.
+out "Deger", sum.
+]
+]
